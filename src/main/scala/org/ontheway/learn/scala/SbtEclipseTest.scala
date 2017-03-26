@@ -1,6 +1,5 @@
 package org.ontheway.learn.scala
 
-<<<<<<< HEAD
 import org.ontheway.learn.java.JavaLangFeature;
 
 //import org.ontheway.learn.scala.JavaLangFeature
