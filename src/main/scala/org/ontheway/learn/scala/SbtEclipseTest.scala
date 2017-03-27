@@ -4,11 +4,11 @@ import org.ontheway.learn.java.JavaLangFeature;
 
 //import org.ontheway.learn.scala.JavaLangFeature
 import org.apache.spark.launcher.SparkLauncher
-//import swiss.army.knife.util.Logging
-//import swiss.army.knife.util.Utils
+import swiss.army.knife.util.Logging
+import swiss.army.knife.util.Utils
 
-//object SbtEclipseTest extends Logging {
-object SbtEclipseTest {
+object SbtEclipseTest extends Logging {
+//object SbtEclipseTest {
   def testSparkLocal(): Unit = {
     println("start on local.")
     val spark = new SparkLauncher()
