@@ -11,4 +11,7 @@ sbt eclipse
 
 # import into eclipse
 import --> General --> Existing Projects into Workspace ...
+
+# env set
+export LEARN_SPARK_HOME=path-to-the-project-home
 ```
